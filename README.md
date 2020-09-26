@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## See the Demo
 
-Acess [https://danonel-weather-pwa-app.netlify.app/] to see the live version
+Acess [https://danonel-weather-pwa-app.netlify.app/](https://danonel-weather-pwa-app.netlify.app/) to see the live version
 
 ## Available Scripts
 
